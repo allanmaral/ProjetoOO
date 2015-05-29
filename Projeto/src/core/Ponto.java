@@ -9,13 +9,6 @@ package core;
  *
  * @author User
  */
-public class Celula {
-    private double profundidade;
-    private double dureza;
-    private double pressao;
-    private Ponto[] pt ;
-    
-    
-    
+public class Ponto {
     
 }
